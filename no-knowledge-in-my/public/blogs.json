@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/SsWZqbc/2.png",
+        "title": "The Silent Whisper",
+        "author": "Liam Carter",
+        "author_img": "https://i.ibb.co.com/x28BTLG/boy1.png",
+        "posted_date": "2024-11-25",
+        "reading_time": 5,
+        "hashtags": ["#mystery", "#thriller", "#fiction"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/bmDMK8X/1.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Sophia Rivera",
+        "author_img": "https://i.ibb.co.com/KNhN1jQ/girl1.jpg",
+        "posted_date": "2024-11-24",
+        "reading_time": 7,
+        "hashtags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/Kq4LGqx/3.png",
+        "title": "Journey Through the Mind",
+        "author": "Ethan Brooks",
+        "author_img": "https://i.ibb.co.com/PZDh6rz/boy2.jpg",
+        "posted_date": "2024-11-23",
+        "reading_time": 6,
+        "hashtags": ["#psychology", "#selfhelp", "#inspiration"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/RjWLt3Z/4.jpg",
+        "title": "The Forgotten World",
+        "author": "Mia Chen",
+        "author_img": "https://i.ibb.co.com/7vsTbtV/girl2.jpg",
+        "posted_date": "2024-11-22",
+        "reading_time": 8,
+        "hashtags": ["#history", "#archaeology", "#nonfiction"]
+    }
+
+]
